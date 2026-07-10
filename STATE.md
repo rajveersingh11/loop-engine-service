@@ -1,12 +1,12 @@
 # Loop State — loop-engineering reference
 
-Last run: 2026-06-16T12:43:13Z (automated daily-triage workflow)
+Last run: 2026-07-10T10:52:05Z (automated daily-triage workflow)
 
 ## High Priority (loop is acting or waiting on human)
 
 - Maintain loop readiness score ≥ 58 (current: **100**, level **L3**).
 - Keep npm packages current after tool changes (tag `loop-audit-v*`, `loop-init-v*`, `loop-cost-v*` — see docs/RELEASE.md).
-
+- **1** dogfood workflow(s) failing — investigate CI.
 
 ## Watch List
 
